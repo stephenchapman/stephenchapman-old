@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-## Stay at Home Dad – Day One
+## It was fairly easy with one child
 
-It was easy with one child, now we have two, and I have no idea how this is going to work. Today my wife returned to the office after ten weeks maternity leave, I stayed at home with the kids. 
+Now we have two children, two years apart, I have no idea how this is going to work. Today my wife returned to the office after ten weeks maternity leave, I stayed at home with the kids. 
 
 I've been a stay-at-home dad for the last couple of years. We have a two-and-a-half-year-old daughter, and a two-and-a-half-month-old-son. With her toddler curiosity and his newborn needs this is a different job entirely.
 
