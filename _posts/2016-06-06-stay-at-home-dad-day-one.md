@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Stay at Home Dad – Day One
 
