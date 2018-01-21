@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Stephen Chapman
 tagline:             'Personal website'
 description:         'A personal website for Stephen Chapman'
-url:                 http://stephen-chapman.com
+url:                 http://stephenchapman.me
 baseurl:             ''
 paginate:            1
 
@@ -15,7 +15,7 @@ paginate:            1
 author:
   name:              Stephen
   url:               https://twitter.com/stephenchapman
-  email:             stephen@stephen-chapman.com
+  email:             stevochapman@gmail.com
 
 # Custom vars
 version:             1.0.0
