@@ -10,7 +10,7 @@ description:         'A personal website for Stephen Chapman'
 url:                 http://stephenchapman.me
 baseurl:             ''
 paginate:            1
-theme:               minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # About/contact
 author:
